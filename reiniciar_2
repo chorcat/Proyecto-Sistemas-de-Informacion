@@ -1,0 +1,4 @@
+call Desconectarse();
+\. crear_tablas.sql
+\. insertar_3.sql
+\! clear
